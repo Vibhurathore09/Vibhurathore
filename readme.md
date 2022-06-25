@@ -1,9 +1,9 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a> -->
-
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi , I am Vibhu Rathore! Great to see you here!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<a href="https://github.com/Vibhurathore09/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20passionate%20Full%20Stack%20Developer%20from%20INDIA;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
+<a href="https://github.com/Vibhurathore09/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Kunal!;I%20Love%20to%20Explore%20Different%20things;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
 </p>
-<!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
 
